@@ -1,7 +1,10 @@
 # Gallery Plugin
 
 Transform your image collections into stunning galleries effortlessly with this jQuery plugin! Developed as part of my jQuery course at Information Technology Institute (ITI). Excited to share this project—hope you find it as impressive as I do! 🚀
-![Uploading image.png…]()
+
+
+![Gallery Plugin](https://drive.google.com/file/d/1SczNMpWETKq6r5Yz-CETEnYrElpci7W9/view?usp=sharing)
+
 
 ## Demo
 
