@@ -1,6 +1,6 @@
 # Gallery Plugin
 
-Transform your image collections into stunning galleries effortlessly with this jQuery plugin! Developed as part of my jQuery course at Information Technology Institute (ITI). Excited to share this project—hope you find it as impressive as I do! 🚀
+🖼️ Ready-to-use simple plugin that effortlessly transforms any collection of images into a beautiful gallery with features like gridding, full view, and smooth image sliding 🚀
 
 
 ![Your Image Alt Text](https://drive.google.com/uc?export=view&id=1SczNMpWETKq6r5Yz-CETEnYrElpci7W9)
@@ -30,7 +30,7 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
       <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
    ```
 
-2. **Include `gallery-plugin.js` file:**
+2. **Include plugin js file:**
 
    Include the `gallery-plugin.js` file in your HTML.
 
@@ -38,7 +38,7 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
     <script src="./gallery-plugin/gallery-plugin.js"></script>
     ```
 
-4. **Include `gallery-plugin.css` style file:**
+4. **Include  style file:**
 
    Include the `gallery-plugin.css` file for styling your gallery.
 
