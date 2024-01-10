@@ -17,21 +17,57 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
 - Smooth image sliding
 
 ## How To Use 
-1- include Jquery 
 
-```
+1. **Include jQuery:**
+
+   Ensure you have jQuery included in your project. You can download it or use a CDN.
+
+    ```html
     <script src="./gallery-plugin/jquery.js"></script>
-```
-2- include gallery-plugin.js file 
-```
-    <script src="./gallery-plugin/gallery-plugin.js"></script>
-```
-3- include gellery-plugin.css style file
-```
-    <link rel="stylesheet" href="./gallery-plugin/gallery-plugin.css" />
-```
-4- include font awesome font or just use 
-```
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
-```
+    ```
 
+2. **Include `gallery-plugin.js` file:**
+
+   Include the `gallery-plugin.js` file in your HTML.
+
+    ```html
+    <script src="./gallery-plugin/gallery-plugin.js"></script>
+    ```
+
+3. **Include `gallery-plugin.css` style file:**
+
+   Include the `gallery-plugin.css` file for styling your gallery.
+
+    ```html
+    <link rel="stylesheet" href="./gallery-plugin/gallery-plugin.css" />
+    ```
+
+4. **Include Font Awesome or use CDN:**
+
+   Include Font Awesome for icons or use the CDN.
+
+    ```html
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+    ```
+
+5. **Set up your HTML structure:**
+
+   Create a container for your images with a class, for example, `your-image-collection`.
+
+    ```html
+    <div class="your-image-collection">
+      <!-- Your image elements go here -->
+      <img src="path/to/image1.jpg" alt="Image 1">
+      <img src="path/to/image2.jpg" alt="Image 2">
+      <!-- Add more images as needed -->
+    </div>
+    ```
+
+6. **Initialize the gallery plugin:**
+
+   Call the `.galleryPlugin()` function on your image collection container.
+
+    ```
+        $('.your-image-collection').galleryPlugin();
+
+    ```
