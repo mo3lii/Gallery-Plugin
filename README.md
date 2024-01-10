@@ -22,3 +22,6 @@ To install the plugin, you can use npm:
 
 ```bash
 npm install gallery-plugin
+
+<script src="path/to/gallery-plugin.js"></script>
+
