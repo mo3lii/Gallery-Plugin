@@ -1,10 +1,6 @@
 # Gallery Plugin
 
-**Transform your image collections into stunning galleries effortlessly!**
-
-A jQuery plugin designed to create beautiful galleries with features like gridding, full view, and smooth image sliding. With just the `.galleryPlugin()` function, you can enhance your web projects with an elegant image display.
-
-🚀 Developed as part of my jQuery course at Information Technology Institute (ITI). Excited to share this project—hope you find it as impressive as I do! 🤞
+Transform your image collections into stunning galleries effortlessly with this jQuery plugin! Developed as part of my jQuery course at Information Technology Institute (ITI). Excited to share this project—hope you find it as impressive as I do! 🚀
 
 ## Demo
 
@@ -16,7 +12,7 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
 - Full view mode
 - Smooth image sliding
 
-## How To Use 
+## How To Use
 
 1. **Include jQuery:**
 
@@ -67,7 +63,8 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
 
    Call the `.galleryPlugin()` function on your image collection container.
 
+    ```javascript
+    $('.your-image-collection').galleryPlugin();
     ```
-        $('.your-image-collection').galleryPlugin();
 
-    ```
+🚀 Developed by [Mostafa Ali](https://www.linkedin.com/in/mostafa-ali-462152203/) - Check out my LinkedIn profile for more projects and updates!
