@@ -8,20 +8,22 @@
 
 ![Gallery full view](https://drive.google.com/uc?export=view&id=1jssicFAibNHGt8lf2qHHRwx4Eb9md-3T)
 
-
-## Demo
-
-View the live demo [here](https://mo3lii.github.io/Gallery-Project/)
-
-## Example project : 
-[Check out the example project on GitHub](https://github.com/mo3lii/Gallery-Project)
-
-
 ## Features
 
 - 📷 Grid layout for images
 - 🖼️ Full view mode
 - 🚀 Smooth image sliding
+
+## Demo
+
+View the live demo [here](https://mo3lii.github.io/Gallery-Project/)
+
+[Check out the example project on GitHub](https://github.com/mo3lii/Gallery-Project)
+
+## Example project : 
+
+
+
 
 ## How To Use : 
 
