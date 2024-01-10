@@ -17,7 +17,21 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
 - Smooth image sliding
 
 ## How To Use 
-you should include Jquery 
-or use 
-```<script src="./gallery-plugin/jquery.js"></script>```
+1- include Jquery 
+
+```
+    <script src="./gallery-plugin/jquery.js"></script>
+```
+2- include gallery-plugin.js file 
+```
+    <script src="./gallery-plugin/gallery-plugin.js"></script>
+```
+3- include gellery-plugin.css style file
+```
+    <link rel="stylesheet" href="./gallery-plugin/gallery-plugin.css" />
+```
+4- include font awesome font or just use 
+```
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+```
 
