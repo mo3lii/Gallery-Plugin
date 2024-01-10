@@ -4,7 +4,9 @@
 
 
 ![gallery grid](https://drive.google.com/uc?export=view&id=1SczNMpWETKq6r5Yz-CETEnYrElpci7W9)
-[![ gallery full view](https://drive.google.com/uc?export=view&id=1SczNMpWETKq6r5Yz-CETEnYrElpci7W9)]
+
+
+![Gallery full view](https://drive.google.com/uc?export=view&id=1jssicFAibNHGt8lf2qHHRwx4Eb9md-3T)](https://mo3lii.github.io/Gallery-Project/)
 
 
 ## Demo
