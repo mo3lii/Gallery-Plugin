@@ -16,12 +16,11 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
 - Full view mode
 - Smooth image sliding
 
-## Installation
+## How To Use 
+you should include Jquery 
+or use 
+```
+    <script src="./gallery-plugin/jquery.js"></script>
 
-To install the plugin, you can use npm:
-
-```bash
-npm install gallery-plugin
-
-<script src="path/to/gallery-plugin.js"></script>
+```
 
