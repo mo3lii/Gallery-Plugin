@@ -1,6 +1,7 @@
 # Gallery Plugin
 
 Transform your image collections into stunning galleries effortlessly with this jQuery plugin! Developed as part of my jQuery course at Information Technology Institute (ITI). Excited to share this project—hope you find it as impressive as I do! 🚀
+![Uploading image.png…]()
 
 ## Demo
 
@@ -12,7 +13,7 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
 - Full view mode
 - Smooth image sliding
 
-## How To Use
+## How To Use : 
 
 1. **Include jQuery:**
 
@@ -21,6 +22,10 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
     ```html
     <script src="./gallery-plugin/jquery.js"></script>
     ```
+      or use CDN
+   ```html
+      <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+   ```
 
 2. **Include `gallery-plugin.js` file:**
 
@@ -30,7 +35,7 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
     <script src="./gallery-plugin/gallery-plugin.js"></script>
     ```
 
-3. **Include `gallery-plugin.css` style file:**
+4. **Include `gallery-plugin.css` style file:**
 
    Include the `gallery-plugin.css` file for styling your gallery.
 
@@ -38,7 +43,7 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
     <link rel="stylesheet" href="./gallery-plugin/gallery-plugin.css" />
     ```
 
-4. **Include Font Awesome or use CDN:**
+5. **Include Font Awesome or use CDN:**
 
    Include Font Awesome for icons or use the CDN.
 
@@ -46,7 +51,7 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
     ```
 
-5. **Set up your HTML structure:**
+6. **Set up your HTML structure:**
 
    Create a container for your images with a class, for example, `your-image-collection`.
 
@@ -59,7 +64,7 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
     </div>
     ```
 
-6. **Initialize the gallery plugin:**
+7. **Initialize the gallery plugin:**
 
    Call the `.galleryPlugin()` function on your image collection container.
 
