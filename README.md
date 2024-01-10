@@ -14,14 +14,14 @@
 - 🖼️ Full view mode
 - 🚀 Smooth image sliding
 
-## Demo
+## Live Demo
 
 View the live demo [here](https://mo3lii.github.io/Gallery-Project/)
 
-[Check out the example project on GitHub](https://github.com/mo3lii/Gallery-Project)
 
 ## Example project : 
 
+[Check out the example project on GitHub](https://github.com/mo3lii/Gallery-Project)
 
 
 
