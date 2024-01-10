@@ -3,7 +3,8 @@
 🖼️ Ready-to-use simple plugin that effortlessly transforms any collection of images into a beautiful gallery with features like gridding, full view, and smooth image sliding 🚀
 
 
-![Your Image Alt Text](https://drive.google.com/uc?export=view&id=1SczNMpWETKq6r5Yz-CETEnYrElpci7W9)
+![gallery grid](https://drive.google.com/uc?export=view&id=1SczNMpWETKq6r5Yz-CETEnYrElpci7W9)
+[![ gallery full view](https://drive.google.com/uc?export=view&id=1SczNMpWETKq6r5Yz-CETEnYrElpci7W9)](https://mo3lii.github.io/Gallery-Project/){:width="300px"}
 
 
 ## Demo
