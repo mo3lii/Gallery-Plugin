@@ -6,18 +6,22 @@
 ![gallery grid](https://drive.google.com/uc?export=view&id=1SczNMpWETKq6r5Yz-CETEnYrElpci7W9)
 
 
-![Gallery full view](https://drive.google.com/uc?export=view&id=1jssicFAibNHGt8lf2qHHRwx4Eb9md-3T)](https://mo3lii.github.io/Gallery-Project/)
+![Gallery full view](https://drive.google.com/uc?export=view&id=1jssicFAibNHGt8lf2qHHRwx4Eb9md-3T)
 
 
 ## Demo
 
 View the live demo [here](https://mo3lii.github.io/Gallery-Project/)
 
+## Example project : 
+[Check out the example project on GitHub](https://github.com/mo3lii/Gallery-Project)
+
+
 ## Features
 
-- Grid layout for images
-- Full view mode
-- Smooth image sliding
+- 📷 Grid layout for images
+- 🖼️ Full view mode
+- 🚀 Smooth image sliding
 
 ## How To Use : 
 
@@ -77,5 +81,6 @@ View the live demo [here](https://mo3lii.github.io/Gallery-Project/)
     ```javascript
     $('.your-image-collection').galleryPlugin();
     ```
+
 
 🚀 Developed by [Mostafa Ali](https://www.linkedin.com/in/mostafa-ali-462152203/) - Check out my LinkedIn profile for more projects and updates!
