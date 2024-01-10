@@ -8,7 +8,7 @@
 
 ## Demo
 
-View the live demo [here](https://mo3lii.github.io/Gallery-Project/).
+View the live demo [here](https://mo3lii.github.io/Gallery-Project/){:width="300px"}
 
 ## Features
 
